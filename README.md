@@ -1,1 +1,1 @@
-# ADT_priority_queue
+A program using ADT priority queue to splits and arranges a short text.
